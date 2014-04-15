@@ -1,0 +1,35 @@
+/*   
+ * Estilos responsivos
+*/
+
+/* Small devices (tablets, 800px) */
+@media screen and (max-width:800px){
+.conten_actions{
+	display: block;
+
+
+}
+.acciones{
+	width: 100%;
+	padding: 10px 0px 0px 0px;
+	text-align: center;
+}
+.cta{
+	color: #585f69;
+	width: 95%;
+	display: block;
+	background-color: #e7e7e7;
+	border: solid #C0C0C0 2px;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	min-height: 160px;
+}
+
+
+}
+
+/* Medium devices (desktops) */
+@media screen and (min-width: 800px) {
+
+}
